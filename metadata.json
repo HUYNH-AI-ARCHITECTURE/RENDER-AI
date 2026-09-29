@@ -1,0 +1,7 @@
+{
+  "name": "HUỲNH-AI ARCHITECTURE",
+  "description": "Ứng dụng render kiến trúc ngoại thất và nội thất AI đa phong cách, bám sát ảnh gốc CAD/3D, học phong cách ảnh tham chiếu, bối cảnh Việt Nam và kiểm soát chi tiết.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
